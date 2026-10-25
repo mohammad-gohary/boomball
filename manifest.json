@@ -1,12 +1,19 @@
 {
-  "background_color": "#ffffff",
-  "description": "boomball",
-  "dir": "ltr",
+  "name": "BoomBall",
+  "short_name": "BoomBall",
+  "id": "ir.mohammad.boomball",
+  "start_url": "./",
+  "scope": "./",
   "display": "fullscreen",
-  "name": "BOOMBALL",
   "orientation": "portrait",
-  "scope": "/",
-  "short_name": "boomball",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "An awesome dual-mode arcade and space combat game",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
