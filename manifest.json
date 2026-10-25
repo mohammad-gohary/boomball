@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "boomball",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "BOOMBALL",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "boomball",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
