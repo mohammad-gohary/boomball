@@ -1,6 +1,6 @@
 {
-  "name": "Boomball",
-  "short_name": "Boomball",
+  "name": "Boom Ball Arcade",
+  "short_name": "BoomBall",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#000000",
@@ -10,9 +10,9 @@
     {
       "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
-  "description": "e fields that need to be updated before you can package.tyurytfy8l",
   "orientation": "portrait"
 }
