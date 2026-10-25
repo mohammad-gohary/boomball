@@ -1,0 +1,18 @@
+{
+  "name": "Boomball",
+  "short_name": "Boomball",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "id": "ir.mohammad.boomball",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "e fields that need to be updated before you can package.tyurytfy8l",
+  "orientation": "portrait"
+}
